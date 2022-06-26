@@ -1,0 +1,12 @@
+#welcome, #quiz, #inputScore, #highScores {
+    width: 70%;
+}
+
+#quiz, #inputScore, #highScores {
+    display: none;
+}
+
+.jumbotron {
+    background-color: rgb(83, 216, 198);
+    font-family:Arial, Helvetica, sans-serif;
+}
